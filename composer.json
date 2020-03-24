@@ -1,0 +1,15 @@
+{
+    "name": "Txiki31/sync-garmin-activities",
+    "description": "simple app to synchronize locally Garmin datas",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {"MyGarmin\\": "src/"}
+    },
+    "include-path": ["src/"],
+    "authors": [
+        {
+            "name": "Txiki31", "email": "31.txiki@gmail.com"
+        }
+    ]
+}
